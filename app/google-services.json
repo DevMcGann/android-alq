@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "332905552325",
+    "firebase_url": "https://alquilorumandroid.firebaseio.com",
+    "project_id": "alquilorumandroid",
+    "storage_bucket": "alquilorumandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332905552325:android:bb5e0c15d7b2613c9c13ac",
+        "android_client_info": {
+          "package_name": "com.gsoft.argentina.alquileresandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332905552325-j4r2s4kiqqvj1f1b0nollcrpjl3lrpc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXUndf9YSahCzJBPVa41xH7OJATUcU20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332905552325-j4r2s4kiqqvj1f1b0nollcrpjl3lrpc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332905552325:android:6e85a3cc468e9e979c13ac",
+        "android_client_info": {
+          "package_name": "com.gsoft.argentina.alquilorumandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332905552325-j4r2s4kiqqvj1f1b0nollcrpjl3lrpc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXUndf9YSahCzJBPVa41xH7OJATUcU20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332905552325-j4r2s4kiqqvj1f1b0nollcrpjl3lrpc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

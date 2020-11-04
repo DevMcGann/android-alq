@@ -59,7 +59,7 @@ class adaptador_propiedades   : RecyclerView.Adapter<RecyclerView.ViewHolder>() 
 
             Glide.with(itemView.context)
                 .applyDefaultRequestOptions(requestOptions)
-                .load(propiedad.image)
+                .load(propiedad.imagenPrincipal)
                 .into(propiedad_imagen)
             propiedad_direccion.text = propiedad.direccion
             propiedad_descripcion.text = propiedad.descripcion
